@@ -1,0 +1,2 @@
+# i-Discussion-Portal
+i-Discussion is in interactive online discussion portal exclusively designed for Bennetians. It provides publicly problem solving for now. Its still in its development phase. There is a lot to develop and we are continuously working on it. Students are free to ask anything, anytime related to their specific streams. The only thing that one needs is to upload his or her query and then just wait till it gets answered. In short i -discussion bennett portal will be able to help each and every bennettian who is in need.
